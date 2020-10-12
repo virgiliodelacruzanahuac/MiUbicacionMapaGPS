@@ -51,7 +51,7 @@ export default function App()
       {(position && (
         <Card style={styles.mycard}>
         <Text>
-        Mi posición en GPS{"\n"}
+        Poligono Mi posición en GPS{"\n"}
         </Text>
         <Text>
         Latitud={position.latitude} {"\n"}
